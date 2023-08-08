@@ -1,0 +1,24 @@
+name: flutter_map_astp
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^5.0.0
+  http: ^1.1.0
+  path_provider: ^2.0.15
+  sqflite: ^2.2.8+4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
