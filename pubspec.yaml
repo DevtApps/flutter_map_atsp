@@ -1,6 +1,6 @@
 name: flutter_map_astp
 description: A new Flutter package project.
-version: 0.0.2
+version: 0.0.3
 
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ^6.1.0
+  flutter_map: ^5.0.0
   http: ^1.1.0
   path_provider: ^2.0.15
   sqflite: ^2.2.8+4
