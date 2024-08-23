@@ -10,10 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ^5.0.0
+  flutter_map: ^7.0.2
   http: ^1.1.0
   path_provider: ^2.0.15
-  sqflite: ^2.2.8+4
+  sqflite: ^2.2.8+4 
 
 
 dev_dependencies:
@@ -22,3 +22,4 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+  uses-material-design: true
